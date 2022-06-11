@@ -1,0 +1,9 @@
+s="elcome to the world of python..."
+s1="777"
+s2="HELLO"
+s3=" "
+print(s.capitalize())
+print("Center "+s.center(100,'*'))
+print("Count "+str(s.count("to")))
+print("Find "+str(s.find("to",0,len(s)-1)))
+print("RFind"+ str(s.rfind("to",0,len(s)-1)))

@@ -1,0 +1,9 @@
+days=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+number=[1,2,3,4,5,6,7,8,9,10]
+chars=('a','b','c','d','e')
+print(days[1])
+print(number[2:5])
+print(len(chars))
+print(days[-2])
+print(max(number))
+print(list(chars))

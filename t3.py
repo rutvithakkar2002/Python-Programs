@@ -1,0 +1,5 @@
+tup1=(1,2,3,4,5,6,7,8,9,10)
+print("Tup[3:6]",tup1[3:6])
+print("Tup[:8]",tup1[:8])
+print("Tuple[4:]",tup1[4:])
+print("Tuple[:]",tup1[:])
